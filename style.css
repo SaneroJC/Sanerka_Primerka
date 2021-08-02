@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color:white;
+}
+.text-main{
+    position: relative;
+    text-align: center;
+    top: 10%;
+    color:black;
+}
+.comp{
+    position: relative;
+    text-align: center;
+    top: 10%;
+    color: black;
+}
+.DOWNLOADES{
+    position: relative;
+    text-align: center;
+    top: 10%;
+    color:black;
+}
+.CONTENT_DOWNLOADES{
+    position: relative;
+    text-align: center;
+    top: 10%;
+    color:white;
+}
